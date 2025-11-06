@@ -2,8 +2,11 @@
 <!-- 🌌  GITHUB PROFILE README FOR SOURABH PATIL               -->
 <!-- ========================================================= -->
 
+<!-- Clickable Animated Banner -->
 <p align="center">
-  <img src="https://github.com/Sourpatil123/Sourpatil123/blob/main/A_digital_illustration_in_neon-style_showcases_Sou.png" alt="Hey there! I'm Sourabh!" width="100%" />
+  <a href="https://github.com/Sourpatil123/Sourpatil123/blob/main/banner.mp4">
+         alt="Hey there! I'm Sourabh!" width="100%" />
+  </a>
 </p>
 
 <!-- Animated intro typing -->
