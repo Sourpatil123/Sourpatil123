@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://github.com/Sourpatil123/Sourpatil123/blob/main/A_digital_graphic_design_banner_introduces_Sourabh.png" alt="Hey there! I'm Sourabh!" width="100%" />
+  <img src="https://github.com/Sourpatil123/Sourpatil123/blob/main/A_digital_illustration_in_neon-style_showcases_Sou.png" alt="Hey there! I'm Sourabh!" width="100%" />
 </p>
 
 <!-- Animated intro typing -->
@@ -20,21 +20,19 @@
 
 ### 🧠 **Welcome!**
 
-I'm **Sourabh Patil**, a **Data Scientist** and **Software Developer** passionate about turning raw data into intelligent, scalable solutions.  
-I bridge **Machine Learning**, **Software Engineering**, and **Automation** to deliver impactful real-world applications that merge innovation with performance.
+I'm **Sourabh Patil**, a **Data Scientist** and **Software Developer** passionate about transforming data into smart, scalable, and efficient systems.  
+I merge **AI, ML, and Backend Development** to create impactful digital products that deliver value through automation and innovation.
 
 ---
 
 ### ⚡ **About Me**
 
-🔬 **Research Focus:** Machine Learning · Deep Learning · Statistical Modeling  
-🧠 **Expertise:** Python · TensorFlow · PyTorch · Scikit-learn  
+🔬 **Research Focus:** Machine Learning · Deep Learning · Predictive Analytics  
 💻 **Software Development:** Java · Spring Boot · Hibernate · RESTful APIs · Microservices  
-⚙️ **Experience In:** Building secure, modular backend systems and integrating them with ML models  
-📊 **Currently:** Developing data pipelines and production-grade AI apps  
-💡 **Passionate About:** NLP · Computer Vision · MLOps · Backend Development  
-🤝 **Collaborate With Me:** Open for AI/ML, Java-based full-stack, and enterprise-grade systems  
-🎯 **Goal:** To empower data-driven, automated decision-making across industries  
+🧠 **Expertise:** Python · TensorFlow · PyTorch · Scikit-learn · Matplotlib · Plotly  
+📊 **Currently:** Designing ML pipelines + Spring Boot-based automation systems  
+💡 **Passionate About:** NLP · Computer Vision · Data Visualization · Backend Systems  
+🎯 **Goal:** To empower decision-making through AI & software craftsmanship  
 📧 **Reach Out:** <a href="mailto:sourabhpatil099@gmail.com">sourabhpatil099@gmail.com</a>
 
 ---
@@ -52,22 +50,36 @@ I bridge **Machine Learning**, **Software Engineering**, and **Automation** to d
 <div align="center">
 
 🧩 **Programming Languages**  
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
 
-⚙️ **ML / DL Frameworks**  
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+<br><br>
 
 ☕ **Java Development**  
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,gradle&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-2C8EBB?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
+
+<br>
 
 📊 **Data Visualization & Analysis**  
-<img src="https://skillicons.dev/icons?i=powerbi,tableau,excel&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
 
-☁️ **Big Data & Cloud Platforms**  
-<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" />
+<br>
 
 🧰 **Databases & Tools**  
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,jupyter,postman,vscode&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DOCKER-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
 </div>
 
@@ -84,11 +96,12 @@ I bridge **Machine Learning**, **Software Engineering**, and **Automation** to d
 <h2 align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
 
 <div align="center">
-  
+
+🌦️ **Decision Tree Algorithm using Weather Dataset** – Classification Model in Python  
+🧠 **Diabetes Prediction using K-Nearest-Neighbors (KNN)** – ML-based Health Prediction System  
+📞 **Call Centre Data Analysis Dashboard** – Power BI Visualization & Insights  
 🎵 **TuneHub** – Full-stack Music App (Spring Boot + Responsive UI)  
-🤖 **AI Ads Compliance Checker** – Gemini API + n8n Automation  
-🌦️ **Weather Monitoring System** – Real-time API Weather App  
-🛒 **ShopNest** – Secure E-commerce Management Platform  
+🛒 **ShopNest** – Secure E-commerce Management System  
 
 </div>
 
@@ -127,22 +140,6 @@ I bridge **Machine Learning**, **Software Engineering**, and **Automation** to d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourpatil123&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourpatil123&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C4FF" width="95%" />
-</p>
-
----
-
-<!-- ========================================================= -->
-<!-- 📈 CONTRIBUTION ACTIVITY -->
-<!-- ========================================================= -->
-
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Aᴄᴛɪᴠɪᴛʏ</h2>
-
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
-</p>
-
 ---
 
 <!-- ========================================================= -->
@@ -156,7 +153,7 @@ I bridge **Machine Learning**, **Software Engineering**, and **Automation** to d
   <li>🧩 Predictive Analytics · Deep Learning · AI Systems</li>
   <li>💻 Backend Development (Java · Spring Boot · Hibernate · REST APIs)</li>
   <li>☁️ CI/CD · Docker · AWS Deployments</li>
-  <li>📊 Power BI · Tableau · Excel Automation</li>
+  <li>📊 Power BI · Tableau · Plotly Visualization</li>
 </ul>
 
 ---
