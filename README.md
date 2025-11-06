@@ -4,7 +4,7 @@
 
 <!-- Clickable Animated Banner -->
 <p align="center">
-  <img src="https://github.com/Sourpatil123/Sourpatil123/blob/main/A_digital_illustration_in_neon-style_showcases_Sou.png" alt="Hey there! I'm Sourabh!" width="100%" />
+  <img src="https://github.com/Sourpatil123/Sourpatil123/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" alt="Hey there! I'm Sourabh!" width="100%" />
 </p>
 
 
