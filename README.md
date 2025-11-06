@@ -4,15 +4,12 @@
 
 <!-- Clickable Animated Banner -->
 <p align="center">
-  <a href="https://github.com/Sourpatil123/Sourpatil123/blob/main/banner.mp4">
+  <a href="https://github.com/Sourpatil123/Sourpatil123/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner%20(1).mp4">
          alt="Hey there! I'm Sourabh!" width="100%" />
   </a>
 </p>
 
-<!-- Animated intro typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1200&color=00E0FF&center=true&vCenter=true&width=900&lines=Data+Scientist+📊+|+Software+Developer+💻+|+Machine+Learning+Engineer+🤖+|+AI+Enthusiast+🧠" alt="Typing Animation" />
-</p>
+
 
 <!-- Profile View Counter -->
 <p align="center">
