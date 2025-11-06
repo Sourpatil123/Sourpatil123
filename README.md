@@ -1,186 +1,215 @@
-<!-- ======================= HERO BANNER ======================= -->
+<!-- ========================================================= -->
+<!-- 🌌  GITHUB PROFILE README FOR SOURABH PATIL               -->
+<!-- ========================================================= -->
+
 <p align="center">
   <img src="https://github.com/Sourpatil123/Sourpatil123/blob/main/A_digital_graphic_design_banner_features_Sourabh_P.png" alt="Sourabh Patil Banner" width="100%" />
 </p>
 
+<!-- ========================================================= -->
+<!-- 👋 INTRODUCTION -->
+<!-- ========================================================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=ʜᴇʏ+ᴛʜᴇʀᴇ!+ɪ'ᴍ+Sourabh!;Data+Scientist+|+Software+Developer+|+ML+Engineer+|+AI+Enthusiast" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00E0FF&center=true&vCenter=true&width=900&lines=ʜᴇʏ+ᴛʜᴇʀᴇ!+ɪ'ᴍ+Sourabh!;Data+Scientist+|+Software+Developer+|+Machine+Learning+Engineer+|+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sourpatil123&style=flat-square&color=00C4FF" alt="Profile Views" /> &nbsp;
-  <a href="https://github.com/Sourpatil123"><img src="https://img.shields.io/badge/GitHub-Sourpatil123-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru-00A0E3?style=for-the-badge" alt="Location" />
-</p>
-
----
-
-<!-- ======================= INTRO (two-column feel) ======================= -->
-<p align="center">Welcome to my GitHub! I'm a <strong>Data Scientist</strong> and <strong>Software Developer</strong> passionate about turning data into actionable insights and building intelligent systems. I leverage <em>machine learning</em>, <em>statistical analysis</em>, and <em>data visualization</em> to solve complex real-world problems.</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=75&section=header&animation=glow" width="100%"/>
-</p>
-
-<!-- ======================= KEY HIGHLIGHTS ======================= -->
-<h3 align="center">🔎 Quick Snapshot</h3>
-<p align="center">
-  🔬 <strong>Research Focus:</strong> Machine Learning · Deep Learning · Statistical Modeling<br/>
-  🧠 <strong>Expertise:</strong> Python · TensorFlow · PyTorch · Scikit-learn · Spring Boot · Java<br/>
-  📊 <strong>Currently:</strong> Building end-to-end ML pipelines — data → model → deploy → monitor<br/>
-  💡 <strong>Passionate:</strong> NLP · Computer Vision · Time Series · MLOps<br/>
-  🤝 <strong>Collaborate:</strong> Open to ML/AI projects, Kaggle, and research<br/>
-  🎯 <strong>Goal:</strong> Make data-driven decision-making accessible and scalable
+  <img src="https://komarev.com/ghpvc/?username=Sourpatil123&style=flat-square&color=00C4FF" alt="Profile views"/> &nbsp;
+  <a href="https://github.com/Sourpatil123"><img src="https://img.shields.io/badge/GitHub-Sourpatil123-181717?style=for-the-badge&logo=github"></a> &nbsp;
+  <img src="https://img.shields.io/badge/Location-Bengaluru-1E90FF?style=for-the-badge">
 </p>
 
 ---
 
-<!-- ======================= TOOLKIT (VISUAL GRID) ======================= -->
+### 💫 About Me  
+
+Welcome to my GitHub! I'm a **Data Scientist** & **Software Developer** passionate about transforming data into intelligent systems and actionable insights.  
+My mission: apply **Machine Learning**, **Statistical Analysis**, and **Data Visualization** to solve complex real-world challenges.
+
+🔬 **Research Focus:** Machine Learning · Deep Learning · Statistical Modeling  
+🧠 **Expertise:** Python · TensorFlow · PyTorch · Scikit-learn · Spring Boot · Java  
+📊 **Currently:** Building end-to-end ML pipelines — from data to deployment  
+💡 **Interests:** NLP · Computer Vision · MLOps · Automation Systems  
+🤝 **Collaboration:** Open to AI/ML & Software Dev projects, Kaggle competitions, and research  
+🎯 **Goal:** Make data-driven decision-making accessible for everyone  
+📧 **Reach Out:** [GitHub Profile](https://github.com/Sourpatil123)
+
+---
+
+<!-- ========================================================= -->
+<!-- 🛠️ TOOLKIT SECTION -->
+<!-- ========================================================= -->
+
 <h2 align="center">🛠️ Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ & Sᴏꜰᴛᴡᴀʀᴇ Dᴇᴠ Tᴏᴏʟᴋɪᴛ</h2>
 
+<!-- Languages -->
+<h3 align="center">💻 Programming Languages</h3>
 <p align="center">
-  <!-- Languages / Core -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript&theme=dark" />
+</p>
+
+<!-- ML / DL -->
+<h3 align="center">🤖 ML & DL Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+</p>
+
+<!-- Java Development -->
+<h3 align="center">☕ Java Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,maven,gradle&theme=dark" />
+</p>
+
+<!-- Visualization -->
+<h3 align="center">📊 Data Visualization & Analysis</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel&theme=dark" />
+</p>
+
+<!-- Cloud / Big Data -->
+<h3 align="center">☁️ Big Data & Cloud Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" />
+</p>
+
+<!-- Databases / Tools -->
+<h3 align="center">🧰 Databases & DevOps Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,jupyter,postman,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <!-- ML/DL Frameworks -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Java Dev -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Visualization & Analysis -->
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /> &nbsp;
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Big Data & Cloud -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%"/>
 </p>
 
 ---
 
-<!-- ======================= FEATURED PROJECTS ======================= -->
+<!-- ========================================================= -->
+<!-- 🚀 FEATURED PROJECTS -->
+<!-- ========================================================= -->
+
 <h2 align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
 
 <p align="center">
-  • <strong>TuneHub</strong> — Full-stack music app (Java Spring Boot backend, responsive frontend).<br/>
-  • <strong>Facebook Ads Compliance Checker</strong> — AI + n8n automation for ad validation (Gemini API).<br/>
-  • <strong>Weather Monitoring System</strong> — Real-time weather app with API integrations.<br/>
-  • <strong>ShopNest</strong> — Full-stack e-commerce platform with admin dashboards.
+  🎵 <strong>TuneHub</strong> – Full-stack music streaming app (Java + Spring Boot)<br/>
+  🤖 <strong>AI Ads Checker</strong> – Automated ad validation using Gemini API + n8n<br/>
+  🌦️ <strong>Weather App</strong> – Real-time weather insights with REST APIs<br/>
+  🛍️ <strong>ShopNest</strong> – E-commerce platform with secure login & admin dashboard
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sourpatil123?tab=repositories"><img src="https://img.shields.io/badge/See_All_Projects-View_Repos-0A66C2?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Sourpatil123?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_More_Projects-Click_Here-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<!-- ======================= TROPHIES & STATS ======================= -->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs & Sᴛᴀᴛs</h2>
+<!-- ========================================================= -->
+<!-- 🏆 TROPHIES -->
+<!-- ========================================================= -->
+
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sourpatil123&theme=radical&row=1&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourpatil123&show_icons=true&count_private=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourpatil123&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourpatil123&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sourpatil123&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-<!-- ======================= CONTRIBUTION ACTIVITY ======================= -->
+<!-- ========================================================= -->
+<!-- 📊 GITHUB STATISTICS (Graph Interface) -->
+<!-- ========================================================= -->
+
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛɪsᴛɪᴄs</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourpatil123&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourpatil123&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourpatil123&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourpatil123&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C4FF" width="95%"/>
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!-- 📈 CONTRIBUTION ACTIVITY -->
+<!-- ========================================================= -->
+
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Aᴄᴛɪᴠɪᴛʏ</h2>
-
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity.vercel.app/api?username=Sourpatil123&theme=react-dark" alt="Recent Activity" />
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-<!-- ======================= KEY COMPETENCIES ======================= -->
+<!-- ========================================================= -->
+<!-- 📚 COMPETENCIES -->
+<!-- ========================================================= -->
+
 <h2 align="center">📚 Kᴇʏ Cᴏᴍᴘᴇᴛᴇɴᴄɪᴇs</h2>
 
 <ul>
-  <li>Data Cleaning & Feature Engineering</li>
-  <li>Supervised & Unsupervised Learning</li>
-  <li>Deep Learning (CNNs, RNNs, Transformers)</li>
-  <li>Model Evaluation & Explainability (SHAP, LIME)</li>
-  <li>APIs, Microservices & Backend Dev (Spring Boot)</li>
-  <li>CI/CD, Docker, and Cloud Deployments (AWS / Azure)</li>
+  <li>🔍 Data Cleaning · Feature Engineering · Data Wrangling</li>
+  <li>🧩 Model Building · Evaluation · Optimization</li>
+  <li>🧠 Deep Learning (CNN, RNN, Transformers)</li>
+  <li>💾 Backend Development (Spring Boot, REST APIs)</li>
+  <li>☁️ CI/CD · Docker · AWS Deployments</li>
+  <li>📊 Power BI · Tableau · Excel Dashboards</li>
 </ul>
 
 ---
 
-<!-- ======================= WISDOM CARDS ======================= -->
-<h2 align="center">🌟 Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ Wɪsᴅᴏᴍ & Sᴏꜰᴛᴡᴀʀᴇ Dᴇᴠ Wɪsᴅᴏᴍ</h2>
+<!-- ========================================================= -->
+<!-- 🧠 WISDOM QUOTES -->
+<!-- ========================================================= -->
 
+<h2 align="center">🌟 Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ & Sᴏꜰᴛᴡᴀʀᴇ Dᴇᴠ Wɪsᴅᴏᴍ 🌟</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&color=gradient&animation=fadeIn" width="100%"/>
-</p>
-
 ---
 
-<!-- ======================= CONNECT & SUPPORT ======================= -->
+<!-- ========================================================= -->
+<!-- 🤝 CONNECT SECTION -->
+<!-- ========================================================= -->
+
 <h2 align="center">🤝 Lᴇᴛ'ꜱ Cᴏɴɴᴇᴄᴛ</h2>
 
 <p align="center">
-  <a href="mailto:sourabhpatil099@gmail.com"><img src="https://img.shields.io/badge/Email-sourabhpatil099%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+919739031190"><img src="https://img.shields.io/badge/Phone-+91%209739031190-0A66C2?style=for-the-badge&logo=phone" /></a>
-  <a href="https://www.linkedin.com/in/sourabh-patil-35b870252"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Sourpatil123"><img src="https://img.shields.io/badge/GitHub-visit-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
-  <a href="https://www.paypal.com/"><img src="https://img.shields.io/badge/Support-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+  <a href="mailto:sourabhpatil099@gmail.com"><img src="https://img.shields.io/badge/Email-sourabhpatil099%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="tel:+919739031190"><img src="https://img.shields.io/badge/📞%20Phone-+91%209739031190-1E90FF?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/sourabh-patil-35b870252"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Sourpatil123"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
-<!-- ======================= THANK YOU FOOTER ======================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=tilt&color=0:00C4FF,100:6B46FF&height=120&section=footer&text=Thanks+for+visiting!+✨&fontSize=20" />
-</p>
+<!-- ========================================================= -->
+<!-- ☕ SUPPORT SECTION -->
+<!-- ========================================================= -->
+
+<h2 align="center">☕ Sᴜᴘᴘᴏʀᴛ Mʏ Wᴏʀᴋ</h2>
 
 <p align="center">
-  ⭐ If you liked my work — follow / star / fork — and feel free to reach out for collaborations!
+  <a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"></a>
+  <a href="https://www.paypal.com/"><img src="https://img.shields.io/badge/PayPal-Donate-003087?style=for-the-badge&logo=paypal&logoColor=white"></a>
 </p>
 
-<!-- ======================= CONTRIBUTIONS (optional dynamic) ======================= -->
-<!-- If you want your dynamically generated 'contrib grid' or other widgets replaced/updated, I can help add them. -->
+---
+
+<!-- ========================================================= -->
+<!-- ✨ THANK YOU FOOTER -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+visiting!+⭐&fontSize=22&animation=fadeIn" />
+</p>
