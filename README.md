@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://github.com/Sourpatil123/Sourpatil123/blob/main/A_digital_graphic_design_banner_introduces_Sourabh.png" alt="Hey there! I'm Sourabh!" width="100%" />
+  <img src="https://github.com/Sourpatil123/Sourpatil123/blob/main/banner.png" alt="Hey there! I'm Sourabh!" width="100%" />
 </p>
 
 <!-- Animated intro typing -->
