@@ -4,78 +4,73 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+there!+👋+I'm+Sourabh+Patil;Data+Analyst+%7C+Aspiring+Data+Scientist+%7C+Software+Developer;Building+AI+Agents+%26+Automation+Systems;Power+BI+⚡+Spring+Boot+⚙️+Python+🐍+SQL+🧠;Welcome+to+My+GitHub+Universe+🌌" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00E0FF&center=true&vCenter=true&width=900&lines=Hey+there!+👋+I'm+Sourabh+Patil;Data+Analyst+%7C+Aspiring+Data+Scientist+%7C+Software+Developer;I+Turn+Data+Into+Actionable+Insights;Building+AI+Agents+%26+Automation+Systems;Welcome+to+My+GitHub+Universe+🌌" alt="Typing SVG" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5px">
 
-<!-- ======================= ABOUT SECTION ======================= -->
-<h2 align="center">🌟 Welcome to My Data Universe 🌟</h2>
+<!-- ======================= INTRO SECTION ======================= -->
+<h2 align="center">👋 Welcome to My GitHub!</h2>
+
 <p align="center">
-  I’m a <b>Data Analyst</b> and <b>Aspiring Data Scientist</b> passionate about building intelligent systems and creating automated solutions that turn data into decisions.<br/>
-  I specialize in <b>Machine Learning</b>, <b>Power BI Dashboards</b>, and <b>Spring Boot Applications</b> with real-world impact.
+  I'm a <b>Data Scientist</b> passionate about transforming data into actionable insights and building intelligent systems.  
+  My mission is to leverage <b>Machine Learning</b>, <b>Statistical Analysis</b>, and <b>Data Visualization</b> to solve complex real-world problems.
+</p>
+
+<ul>
+  <li>🔬 <b>Research Focus:</b> Working with <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Statistical Modeling</b> to uncover meaningful patterns from data.</li>
+  <li>🧠 <b>Expertise:</b> Building predictive models using <b>Python</b>, <b>TensorFlow</b>, <b>PyTorch</b>, and <b>Scikit-learn</b>, and deploying ML solutions at scale.</li>
+  <li>📊 <b>Currently:</b> Developing end-to-end data pipelines — from data collection and cleaning to model deployment and monitoring.</li>
+  <li>💡 <b>Passionate About:</b> NLP, Computer Vision, Time Series Forecasting, and MLOps.</li>
+  <li>🤝 <b>Collaborate With Me:</b> Open to collaborating on AI/ML research, Kaggle competitions, and innovative data projects.</li>
+  <li>🎯 <b>Goal:</b> To contribute to advancing AI technologies and make data-driven decision-making more accessible.</li>
+  <li>📧 <b>Reach Out:</b> <a href="mailto:sourabhpatil099@gmail.com">sourabhpatil099@gmail.com</a></li>
+</ul>
+
+---
+
+<!-- ======================= SKILLS VISUALIZATION ======================= -->
+<h2 align="center">📚 Kᴇʏ Cᴏᴍᴘᴇᴛᴇɴᴄɪᴇs</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,powerbi,tableau,git,github,html,css,javascript,vscode,postman&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Data%20Analytics%20Stack&lineCount=3&theme=tokyonight&line1=python,python,auto;powerbi,powerbi,auto;tableau,tableau,auto" />
 </p>
 
 ---
 
-<!-- ======================= BADGES SECTION ======================= -->
+<!-- ======================= DAILY QUOTE CARD ======================= -->
+<h2 align="center">🌟 Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ Wɪsᴅᴏᴍ 🌟</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Analyst-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aspiring_Data_Scientist-00BFFF?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software_Developer-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agent_Builder-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
 ---
 
-<!-- ======================= TECH STACK SECTION ======================= -->
-<h3 align="center">🛠️ Tech Arsenal</h3>
+<!-- ======================= RECENT ACTIVITY SECTION ======================= -->
+<h2 align="center">⚡ Rᴇᴄᴇɴᴛ Aᴄᴛɪᴠɪᴛʏ</h2>
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,html,css,javascript,mysql,powerbi,tableau,github,git,postman,vscode&theme=dark" />
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
-
----
-
-<!-- ======================= EXPERIENCE SECTION ======================= -->
-<h3 align="center">💼 Professional Experience</h3>
-
-🔹 **Data Scientist Intern – Besant Technologies (Apr 2025 – Present)**  
-&nbsp;&nbsp;&nbsp;• Automated Power BI dashboards reducing manual reporting by **30%**  
-&nbsp;&nbsp;&nbsp;• Delivered KPI-driven insights improving decision-making efficiency  
-
-🔹 **AI Prompt Engineer – Outlier (Remote, Oct 2024 – Present)**  
-&nbsp;&nbsp;&nbsp;• Enhanced AI model accuracy by **25%** through optimized prompt engineering  
-&nbsp;&nbsp;&nbsp;• Developed automated validation dashboards  
-
-🔹 **Software Developer Trainee – KodNest Technologies (Jul 2023 – Aug 2024)**  
-&nbsp;&nbsp;&nbsp;• Built Java Spring Boot modules, improving SQL performance by **35%**  
-&nbsp;&nbsp;&nbsp;• Contributed to enterprise-grade system reliability  
-
----
-
-<!-- ======================= PROJECTS SECTION ======================= -->
-<h3 align="center">🚀 Highlighted Projects</h3>
-
-🌟 **[Machine Learning Projects](https://github.com/Sourpatil123)**  
-Developed regression and classification models – *Insurance Claims, Car Price, Salary, and Delivery Time Prediction*  
-
-⚡ **Facebook Ads Compliance Checker (AI + Automation)**  
-Automated ad validation using *n8n workflows* + *Gemini API* reducing manual review time by **40%**
-
-💻 **Full-Stack Projects (Java + Spring Boot)**  
-TuneHub, Rule Engine, Weather App, ShopNest — implemented authentication, CRUD, and responsive design.
 
 ---
 
 <!-- ======================= GITHUB STATS SECTION ======================= -->
-<h3 align="center">📊 GitHub Analytics</h3>
+<h2 align="center">📈 GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourpatil123&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourpatil123&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourpatil123&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourpatil123&theme=radical" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourpatil123&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourpatil123&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
@@ -84,8 +79,8 @@ TuneHub, Rule Engine, Weather App, ShopNest — implemented authentication, CRUD
 
 ---
 
-<!-- ======================= CONNECT SECTION ======================= -->
-<h3 align="center">🤝 Connect With Me</h3>
+<!-- ======================= CONTACT SECTION ======================= -->
+<h2 align="center">🤝 Connect With Me</h2>
 <p align="center">
   <a href="mailto:sourabhpatil099@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/sourabh-patil-35b870252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -95,7 +90,7 @@ TuneHub, Rule Engine, Weather App, ShopNest — implemented authentication, CRUD
 
 ---
 
-<!-- ======================= FOOTER ANIMATION ======================= -->
+<!-- ======================= FOOTER ======================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:3A47D5&height=120&section=footer&text=Thanks+for+visiting+✨&fontSize=25&fontColor=ffffff" />
 </p>
