@@ -20,11 +20,6 @@
   <img src="https://github.com/Sourpatil123/Sourpatil123/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/repos-count/Sourpatil123?style=for-the-badge&logo=github&color=00C4FF" />
-  <img src="https://komarev.com/ghpvc/?username=Sourpatil123&style=for-the-badge&color=00C4FF&label=PROFILE+VIEWS" />
-</p>
-
 
 ### 🧠 **Welcome!**
 
