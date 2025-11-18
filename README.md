@@ -16,10 +16,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Sourpatil123/Sourpatil123/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" width="100%" />
-</p>
-
 
 ### 🧠 **Welcome!**
 
