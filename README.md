@@ -16,6 +16,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/github/repos-count/Sourpatil123?style=for-the-badge&logo=github&color=brightgreen" />
+</p>
+
+
 ### 🧠 **Welcome!**
 
 I'm **Sourabh Patil**, a **Data Scientist** and **Software Developer** passionate about transforming data into smart, scalable, and efficient systems.  
