@@ -150,7 +150,7 @@ I merge **AI, ML, and Backend Development** to create impactful digital products
   <li>🔍 Data Cleaning · Feature Engineering · Model Optimization</li>
   <li>🧩 Predictive Analytics · Deep Learning · AI Systems</li>
   <li>💻 Backend Development (Java · Spring Boot · Hibernate · REST APIs)</li>
-  <li>☁️ CI/CD · Docker · AWS Deployments</li>
+  <li> Docker . Postman</li>
   <li>📊 Power BI · Tableau · Plotly Visualization</li>
 </ul>
 
