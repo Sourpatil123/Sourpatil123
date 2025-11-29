@@ -16,7 +16,7 @@
 
 ---
 
-### 🧠 **Welcome! to **
+### 🧠 **Welcome! to**
 
 I'm **Sourabh Patil**, a **Data Scientist** and **Software Developer** passionate about transforming data into smart, scalable, and efficient systems.  
 I merge **AI, ML, and Backend Development** to create impactful digital products that deliver value through automation and innovation.
